@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cleanifyc/static/css/main.88ee1e7c.chunk.css",
+    "main.js": "/cleanifyc/static/js/main.7d255265.chunk.js",
+    "main.js.map": "/cleanifyc/static/js/main.7d255265.chunk.js.map",
+    "runtime-main.js": "/cleanifyc/static/js/runtime-main.fae414b0.js",
+    "runtime-main.js.map": "/cleanifyc/static/js/runtime-main.fae414b0.js.map",
+    "static/css/2.f524894f.chunk.css": "/cleanifyc/static/css/2.f524894f.chunk.css",
+    "static/js/2.98c824bd.chunk.js": "/cleanifyc/static/js/2.98c824bd.chunk.js",
+    "static/js/2.98c824bd.chunk.js.map": "/cleanifyc/static/js/2.98c824bd.chunk.js.map",
+    "index.html": "/cleanifyc/index.html",
+    "precache-manifest.d1965ca24dffa2783ad1b814f3810fa9.js": "/cleanifyc/precache-manifest.d1965ca24dffa2783ad1b814f3810fa9.js",
+    "service-worker.js": "/cleanifyc/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/cleanifyc/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.88ee1e7c.chunk.css.map": "/cleanifyc/static/css/main.88ee1e7c.chunk.css.map",
+    "static/js/2.98c824bd.chunk.js.LICENSE.txt": "/cleanifyc/static/js/2.98c824bd.chunk.js.LICENSE.txt",
+    "static/media/emptyPlaylist.png": "/cleanifyc/static/media/emptyPlaylist.30b581fc.png",
+    "static/media/logo.png": "/cleanifyc/static/media/logo.856b7ae0.png",
+    "static/media/profPic.png": "/cleanifyc/static/media/profPic.cc02a310.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae414b0.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.98c824bd.chunk.js",
+    "static/css/main.88ee1e7c.chunk.css",
+    "static/js/main.7d255265.chunk.js"
+  ]
+}
